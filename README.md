@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
@@ -44,16 +44,17 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+Java                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+IntelliJ                 9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test_db                  0 secs              █████████████████████████   100.00 % 
+P_Queue                  5 mins              ████████████████░░░░░░░░░   64.70 % 
+Unknown Project          3 mins              █████████░░░░░░░░░░░░░░░░   35.30 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -70,5 +71,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2023 18:31:14 UTC
+ Last Updated on 03/12/2023 18:31:20 UTC
 <!--END_SECTION:waka-->
