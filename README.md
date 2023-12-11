@@ -1,3 +1,5 @@
+**  Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%206%20mins-blue)
 
@@ -82,5 +84,3 @@ Python                   2 repos             ██████████░�
 
  Last Updated on 10/12/2023 18:31:13 UTC
 <!--END_SECTION:waka-->
-
- Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!
