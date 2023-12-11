@@ -1,4 +1,4 @@
-**  Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
+**Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%206%20mins-blue)
