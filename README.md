@@ -1,15 +1,15 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 528.0 kB Used in GitHub's Storage 
+> 📦 528.1 kB Used in GitHub's Storage 
  > 
 > 🏆 100 Contributions in the Year 2023
  > 
@@ -82,5 +82,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2023 18:32:00 UTC
+ Last Updated on 14/12/2023 18:33:20 UTC
 <!--END_SECTION:waka-->
