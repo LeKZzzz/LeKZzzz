@@ -1,7 +1,7 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,16 +46,18 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           0 secs              █████████████████████░░░░   82.37 % 
+Java                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              █████████████████████░░░░   82.37 % 
+java_learning            0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,5 +74,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2024 18:31:18 UTC
+ Last Updated on 14/01/2024 18:31:27 UTC
 <!--END_SECTION:waka-->
