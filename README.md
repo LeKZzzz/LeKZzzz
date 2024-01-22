@@ -1,7 +1,7 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,17 +46,17 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 3 mins        █████████████████████████   100.00 % 
+Java                     2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 3 mins        █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-java_learning            1 hr 58 mins        ████████████████████████░   96.16 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+java_learning            2 hrs 14 mins       ████████████████████████░   97.58 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,5 +73,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 18:32:23 UTC
+ Last Updated on 22/01/2024 18:34:11 UTC
 <!--END_SECTION:waka-->
