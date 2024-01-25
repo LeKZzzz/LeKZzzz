@@ -1,7 +1,7 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,13 +11,13 @@
 
 > 📦 708.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -46,18 +46,18 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 21 mins       █████████████████████████   100.00 % 
+Java                     2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 21 mins       █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-java_learning            2 hrs 17 mins       ████████████████████████░   97.50 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Courses                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+java_learning            2 hrs 34 mins       ███████████████████████░░   93.36 % 
+Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Courses                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +74,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2024 18:32:45 UTC
+ Last Updated on 25/01/2024 18:35:08 UTC
 <!--END_SECTION:waka-->
