@@ -1,7 +1,7 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,18 +46,21 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 47 mins       █████████████████████████   100.00 % 
+Java                     2 hrs 30 mins       ████████████████████████░   94.01 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 47 mins       █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 30 mins       ████████████████████████░   94.01 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🐱‍💻 Projects: 
-java_learning            2 hrs 36 mins       ███████████████████████░░   93.33 % 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Courses                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+java_learning            2 hrs 22 mins       ██████████████████████░░░   89.06 % 
+Website                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Courses                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -74,5 +77,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 18:31:13 UTC
+ Last Updated on 27/01/2024 18:31:23 UTC
 <!--END_SECTION:waka-->
