@@ -1,5 +1,7 @@
 **Hi, my name is Sal, you can also call me LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!**
 
+![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%201%20min-blue)
 
