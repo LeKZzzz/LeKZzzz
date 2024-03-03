@@ -2,6 +2,7 @@
 
 ![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
 
+👀 **Latest blogs**
 <!-- BLOG-POST-LIST:START -->
 - 🫣 [可以在此留言](http://www.blog.lekshome.top/2024/03/03/ke-yi-zai-ci-liu-yan/) 
 
@@ -15,6 +16,7 @@
 
 - 🦣 [鲲鹏BoostKit的大数据性能调优实践](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-da-shu-ju-xing-neng-diao-you-shi-jian/) 
 <!-- BLOG-POST-LIST:END -->
+🥰 If you want to view more blogs, please go to my personal website http://www.blog.lekshome.top/
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%201%20min-blue)
