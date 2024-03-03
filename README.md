@@ -3,6 +3,17 @@
 ![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- 🫣 [可以在此留言](http://www.blog.lekshome.top/2024/03/03/ke-yi-zai-ci-liu-yan/) 
+
+- 🧐 [鲲鹏加速库](http://www.blog.lekshome.top/2024/03/02/kun-peng-jia-su-ku/) 
+
+- 🤖 [鲲鹏HPC](http://www.blog.lekshome.top/2024/03/02/kun-peng-hpc/) 
+
+- 📝 [鲲鹏DevKit](http://www.blog.lekshome.top/2024/03/02/kun-peng-devkit/) 
+
+- ⛽️ [鲲鹏BoostKit的虚拟化部署和调优](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-xu-ni-hua-bu-shu-he-diao-you/) 
+
+- 🦣 [鲲鹏BoostKit的大数据性能调优实践](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-da-shu-ju-xing-neng-diao-you-shi-jian/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
