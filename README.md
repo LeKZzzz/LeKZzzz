@@ -5,17 +5,17 @@
 
 👀 **My latest blogs**
 <!-- BLOG-POST-LIST:START -->
-- 🫣 [可以在此留言](http://www.blog.lekshome.top/2024/03/03/ke-yi-zai-ci-liu-yan/) 
+- 🫣 [鲲鹏加速库](http://www.blog.lekshome.top/2024/03/02/kun-peng-jia-su-ku/) 
 
-- 🧐 [鲲鹏加速库](http://www.blog.lekshome.top/2024/03/02/kun-peng-jia-su-ku/) 
+- 🧐 [鲲鹏HPC](http://www.blog.lekshome.top/2024/03/02/kun-peng-hpc/) 
 
-- 🤖 [鲲鹏HPC](http://www.blog.lekshome.top/2024/03/02/kun-peng-hpc/) 
+- 🤖 [鲲鹏BoostKit的虚拟化部署和调优](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-xu-ni-hua-bu-shu-he-diao-you/) 
 
-- 📝 [鲲鹏BoostKit的虚拟化部署和调优](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-xu-ni-hua-bu-shu-he-diao-you/) 
+- 📝 [鲲鹏BoostKit的大数据性能调优实践](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-da-shu-ju-xing-neng-diao-you-shi-jian/) 
 
-- ⛽️ [鲲鹏BoostKit的大数据性能调优实践](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-da-shu-ju-xing-neng-diao-you-shi-jian/) 
+- ⛽️ [鲲鹏BoostKit的MySQL性能优化](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-mysql-xing-neng-you-hua/) 
 
-- 🦣 [鲲鹏BoostKit的MySQL性能优化](http://www.blog.lekshome.top/2024/03/02/kun-peng-boostkit-de-mysql-xing-neng-you-hua/) 
+- 🦣 [开源操作系统迁移](http://www.blog.lekshome.top/2024/03/02/kai-yuan-cao-zuo-xi-tong-qian-yi/) 
 <!-- BLOG-POST-LIST:END -->
 
 🥰 If you want to view more blogs, please go to my personal website http://www.blog.lekshome.top/
