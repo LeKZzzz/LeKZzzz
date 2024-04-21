@@ -5,17 +5,17 @@
 
 👀 **My latest blogs**
 <!-- BLOG-POST-LIST:START -->
-- 🫣 [计算机系统结构&lpar;一&rpar;](http://www.blog.lekshome.top/2024/04/07/ji-suan-ji-xi-tong-jie-gou-yi/) 
+- 🫣 [计算机系统结构&lpar;二&rpar;](http://www.blog.lekshome.top/2024/04/21/ji-suan-ji-xi-tong-jie-gou-er/) 
 
-- 🧐 [有手就行的TeamSpeak3服务器搭建](http://www.blog.lekshome.top/2024/03/08/teamspeak3-fu-wu-qi-da-jian/) 
+- 🧐 [计算机系统结构&lpar;一&rpar;](http://www.blog.lekshome.top/2024/04/07/ji-suan-ji-xi-tong-jie-gou-yi/) 
 
-- 🤖 [记录一次服务器挖矿病毒攻击](http://www.blog.lekshome.top/2024/03/08/ji-lu-yi-ci-fu-wu-qi-wa-kuang-bing-du-gong-ji/) 
+- 🤖 [有手就行的TeamSpeak3服务器搭建](http://www.blog.lekshome.top/2024/03/08/teamspeak3-fu-wu-qi-da-jian/) 
 
-- 📝 [Python中使用threading多线程调用含asyncio异步函数的自定义模块中出现的EventLoop冲突](http://www.blog.lekshome.top/2024/03/07/python-zhong-shi-yong-threading-duo-xian-cheng-diao-yong-han-asyncio-yi-bu-han-shu-de-zi-ding-yi-mo-kuai-zhong-chu-xian-de-eventloop-chong-tu/) 
+- 📝 [记录一次服务器挖矿病毒攻击](http://www.blog.lekshome.top/2024/03/08/ji-lu-yi-ci-fu-wu-qi-wa-kuang-bing-du-gong-ji/) 
 
-- ⛽️ [Ubuntu 20.04 vsftpd快速安装与配置](http://www.blog.lekshome.top/2024/03/07/ubuntu-20-04-vsftpd-kuai-su-an-zhuang-yu-pei-zhi/) 
+- ⛽️ [Python中使用threading多线程调用含asyncio异步函数的自定义模块中出现的EventLoop冲突](http://www.blog.lekshome.top/2024/03/07/python-zhong-shi-yong-threading-duo-xian-cheng-diao-yong-han-asyncio-yi-bu-han-shu-de-zi-ding-yi-mo-kuai-zhong-chu-xian-de-eventloop-chong-tu/) 
 
-- 🦣 [云服务器Ubuntu 20.04 vsftpd无法pasv连接的解决方法](http://www.blog.lekshome.top/2024/03/07/yun-fu-wu-qi-ubuntu-20-04-vsftpd-wu-fa-pasv-lian-jie-de-jie-jue-fang-fa/) 
+- 🦣 [Ubuntu 20.04 vsftpd快速安装与配置](http://www.blog.lekshome.top/2024/03/07/ubuntu-20-04-vsftpd-kuai-su-an-zhuang-yu-pei-zhi/) 
 <!-- BLOG-POST-LIST:END -->
 
 🥰 If you want to view more blogs, please go to my personal website http://www.blog.lekshome.top/
