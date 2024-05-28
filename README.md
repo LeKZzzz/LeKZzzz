@@ -32,8 +32,6 @@
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -99,5 +97,5 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2024 18:34:05 UTC
+ Last Updated on 28/05/2024 18:35:59 UTC
 <!--END_SECTION:waka-->
