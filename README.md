@@ -32,8 +32,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -67,17 +65,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSS                      0 secs              ████████████████████████░   95.22 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wholz                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -95,5 +92,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2024 18:33:57 UTC
+ Last Updated on 30/06/2024 18:35:40 UTC
 <!--END_SECTION:waka-->
