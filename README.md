@@ -22,7 +22,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -31,6 +31,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 103 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,16 +67,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Pug                      32 mins             ████████████████░░░░░░░░░   63.29 % 
+Stylus                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+anzhiyu                  50 mins             ████████████████████████░   97.61 % 
+lek                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,5 +99,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 18:36:39 UTC
+ Last Updated on 02/07/2024 18:36:28 UTC
 <!--END_SECTION:waka-->
