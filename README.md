@@ -32,8 +32,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -101,5 +99,5 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 18:36:51 UTC
+ Last Updated on 10/07/2024 18:38:23 UTC
 <!--END_SECTION:waka-->
