@@ -32,8 +32,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -67,18 +65,16 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 mins              █████████████████████████   99.70 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCode                 4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +93,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2024 18:40:14 UTC
+ Last Updated on 19/09/2024 18:40:22 UTC
 <!--END_SECTION:waka-->
