@@ -22,7 +22,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -31,8 +31,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 6.3 MB Used in GitHub's Storage 
- > 
-> 🏆 132 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +65,16 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  5 mins              █████████████████████████   100.00 % 
+PyCharm                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mtcnn                    5 mins              ██████████████████████░░░   88.27 % 
-Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+mtcnn                    2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +94,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2024 18:41:33 UTC
+ Last Updated on 09/12/2024 18:45:17 UTC
 <!--END_SECTION:waka-->
