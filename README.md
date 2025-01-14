@@ -32,8 +32,6 @@
 
 > 📦 6.5 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -96,5 +94,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2025 18:43:27 UTC
+ Last Updated on 14/01/2025 18:40:14 UTC
 <!--END_SECTION:waka-->
