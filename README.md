@@ -32,8 +32,6 @@
 
 > 📦 6.6 MB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -67,22 +65,16 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 mins             ███████████████████░░░░░░   75.78 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  15 mins             ███████████████████░░░░░░   75.78 % 
-VS Code                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-epo                      15 mins             ███████████████████░░░░░░   75.78 % 
-home                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             ███████████████████░░░░░░   75.78 % 
-Linux                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -102,5 +94,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:46:01 UTC
+ Last Updated on 29/05/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
