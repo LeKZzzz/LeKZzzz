@@ -22,7 +22,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -65,16 +65,23 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   19 hrs 44 mins      ███████████████████████░░   92.92 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   19 hrs 32 mins      ███████████████████████░░   91.98 % 
+VS Code                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+epo                      20 hrs 50 mins      █████████████████████████   98.16 % 
+CosyVoice                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Open-LLM-VTuber          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -94,5 +101,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 18:46:17 UTC
+ Last Updated on 10/06/2025 18:47:57 UTC
 <!--END_SECTION:waka-->
