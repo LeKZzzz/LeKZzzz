@@ -15,7 +15,7 @@
 
 > 📦 6.6 MB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,10 +65,18 @@ PyCharm                  2 mins              ░░░░░░░░░░░�
 Windows                  22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
+**I Mostly Code in C++** 
 
-![Lines of Code chart](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/master/assets/bar_graph.png)
+```text
+C++                      3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+GLSL                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
 
 
- Last Updated on 14/06/2025 08:27:00 UTC
+
+
+ Last Updated on 14/06/2025 08:46:51 UTC
 <!--END_SECTION:waka-->
