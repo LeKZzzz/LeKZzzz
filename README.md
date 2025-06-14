@@ -2,10 +2,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekzzzz" alt="lekzzzz" /></a> </p>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz streak" />
+    </td>
+  </tr>
+</table>
 
 ![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
 
