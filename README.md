@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekzzzz" alt="lekzzzz" /></a> </p>
 
-<img align="right" width="10%" src="https://bu.dusays.com/2025/06/14/684d4cb5c9aae.gif"/>
+<img align="right" width="38%" src="https://github.com/LeKZzzz/LeKZzzz/blob/master/img/img_1_1.gif"/>
 
-<a href="https://github.com/LeKZzzz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats"></a>
+<a href="https://github.com/LeKZzzz"><img width="58%" src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats"></a>
 
-<a href="https://github.com/LeKZzzz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz streak"></a>
+<a href="https://github.com/LeKZzzz"><img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz streak"></a>
 
 
 ![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
