@@ -2,19 +2,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekzzzz" alt="lekzzzz" /></a> </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz streak" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="10%" src="https://bu.dusays.com/2025/06/14/684d4cb5c9aae.gif"/>
+
+<a href="https://github.com/LeKZzzz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats"></a>
+
+<a href="https://github.com/LeKZzzz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekzzzz&" alt="lekzzzz streak"></a>
+
 
 ![snake](https://raw.githubusercontent.com/LeKZzzz/LeKZzzz/output/github-contribution-grid-snake.svg)
-
 
 
 <!--START_SECTION:waka-->
