@@ -1,8 +1,8 @@
-## Hi, Nice to meet you! If you have any questions, please feel free to contact me at any time!
+## Hi, I'm LeK. Nice to meet you! If you have any questions, please feel free to contact me at any time!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekzzzz" alt="lekzzzz" /></a> </p>
 
-<img align="right" width="38%" src="https://github.com/LeKZzzz/LeKZzzz/blob/master/img/img_1_1.gif"/>
+<img align="right" width="38.5%" src="https://github.com/LeKZzzz/LeKZzzz/blob/master/img/img_1_1.gif"/>
 
 <a href="https://github.com/LeKZzzz"><img width="58%" src="https://github-readme-stats.vercel.app/api?username=lekzzzz&show_icons=true&locale=en" alt="lekzzzz stats"></a>
 
