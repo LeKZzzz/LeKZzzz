@@ -17,13 +17,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.0 MB Used in GitHub's Storage 
  > 
-> 🏆 350 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,15 +58,15 @@ Sunday                   88 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 13 mins       ███████████████████████░░   93.62 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   4 hrs 11 mins       ███████████████████████░░   92.17 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:48:47 UTC
+ Last Updated on 01/01/2026 18:50:27 UTC
 <!--END_SECTION:waka-->
