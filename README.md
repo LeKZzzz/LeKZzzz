@@ -13,7 +13,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,17 +58,18 @@ Sunday                   198 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 15 mins       ██████████████░░░░░░░░░░░   57.57 % 
-Python                   1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-C                        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Markdown                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+JSON                     1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Other                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Python                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+C                        36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   99.17 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  9 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +85,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:41:25 UTC
+ Last Updated on 26/07/2026 19:42:12 UTC
 <!--END_SECTION:waka-->
