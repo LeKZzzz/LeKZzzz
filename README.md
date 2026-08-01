@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm LeK 😊 Nice to meet you! Feel free to reach out anytime if you have any questions! 💬
 
+<div align="center">
+
 <a href="https://lekshome.top"><img src="https://img.shields.io/badge/🏠_个人主页-lekshome.top-blue?style=flat-square" alt="个人主页"></a>
 <a href="https://blog.lekshome.top"><img src="https://img.shields.io/badge/📖_博客-blog.lekshome.top-blue?style=flat-square" alt="博客"></a>
 <img src="https://komarev.com/ghpvc/?username=lekzzzz&color=blueviolet&style=flat-square" alt="visitors">
@@ -17,6 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekzzzz" alt="lekzzzz" /></a> </p>
 
