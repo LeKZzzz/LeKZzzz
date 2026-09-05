@@ -84,21 +84,43 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     7 mins              █████████████████████████   99.12 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PowerShell               1 hr 7 mins         ██████████████████████░░░   88.07 % 
+Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
+Codex Vscode             56 mins             ███████████████████░░░░░░   74.29 % 
+VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+IntelliJ IDEA            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         ███████████████████████░░   90.06 % 
+Linux                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 8 mins (89.86%)
+
+✍️ 150 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,076,205 Input Tokens, 147,205 Output Tokens
+
+💵 $16.60 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 13 AI Prompts
+
+GPT                      174 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,901 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +136,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:54:16 UTC
+ Last Updated on 05/09/2026 20:32:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
