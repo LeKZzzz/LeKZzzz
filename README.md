@@ -84,44 +84,44 @@ Sunday                   221 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.30 % 
-Python                   7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Markdown                 5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-YAML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Other                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TypeScript               7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Python                   7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 25 mins      ████████████████░░░░░░░░░   65.92 % 
-VS Code                  10 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Opencode Cli             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Codex Vscode             18 hrs 4 mins       ████████████████░░░░░░░░░   64.65 % 
+VS Code                  9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
+Opencode Cli             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  32 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 27 hrs 57 mins (100.0%)
 
-✍️ 6,568 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,461 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 58,228,771 Input Tokens, 2,178,402 Output Tokens
+🔤 50,400,615 Input Tokens, 1,957,270 Output Tokens
 
-💵 $682.65 Estimated AI Cost This Week
+💵 $620.99 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 124 AI Prompts
+🧠 76 AI Sessions, 110 AI Prompts
 
-GPT                      6,403 lines         ███████████████████████░░   91.59 % 
-Deepseek                 312 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-DeepSeek                 185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Codex-Vscode             91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+GPT                      5,142 lines         ███████████████████████░░   90.54 % 
+Deepseek                 312 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+DeepSeek                 185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Codex-Vscode             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
+📄 Detailed Prompter — average 993 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -139,7 +139,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:15:00 UTC
+ Last Updated on 08/10/2026 23:30:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
